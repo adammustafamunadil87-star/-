@@ -1,0 +1,21 @@
+{
+  "short_name": "CityRunner",
+  "name": "City Runner: Escape the Police",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/cityrunner/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/cityrunner/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#38bdf8",
+  "background_color": "#000000",
+  "orientation": "landscape"
+}
